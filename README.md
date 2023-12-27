@@ -1,1 +1,3 @@
 # discord-bot
+
+In this project we are creating a discord bot.....
